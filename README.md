@@ -16,7 +16,7 @@
 
 ![java](images/01.jpg)
 
-<table align=center border=0>
+<table align=center>
   <tr>
     <td>title</td>
     <td>version</td>
@@ -26,3 +26,5 @@
     <td>java 11</td>
   </tr>
 </table>
+
+<img alt="02.png" src="images/02.png">
