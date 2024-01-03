@@ -12,4 +12,4 @@
 
 [google](http://www.google.com)
 
-[index](9_member_mybatis_thymeleaf/src/main/resources/static)
+[index](9_member_mybatis_thymeleaf/src/main/resources/static/index.html)
