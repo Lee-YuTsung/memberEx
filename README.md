@@ -15,3 +15,14 @@
 [index](9_member_mybatis_thymeleaf/src/main/resources/static/index.html)
 
 ![java](images/01.jpg)
+
+<table align=center border=0>
+  <tr>
+    <td>title</td>
+    <td>version</td>
+  </tr>
+  <tr>
+    <td>java</td>
+    <td>java 11</td>
+  </tr>
+</table>
